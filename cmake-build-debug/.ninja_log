@@ -1,0 +1,18 @@
+# ninja log v5
+0	11	1709687128974727257	build.ninja	59926af64a0ae6b1
+15	27	1709687022920375424	general_linked_list	e2e19273d87bba2
+0	15	1709687022907041963	CMakeFiles/general_linked_list.dir/main.c.o	e679673c022eb574
+0	17	1709686858658811256	CMakeFiles/general_linked_list.dir/general_linked_list.c.o	956f6aad24d0c175
+0	15	1709687723883847727	CMakeFiles/general_linked_list.dir/main.c.o	e679673c022eb574
+0	17	1709687723883847727	CMakeFiles/general_linked_list.dir/struct_a.c.o	52c6a9858e7debfc
+17	29	1709687723897181191	general_linked_list	be1daf9cf652d851
+1	20	1709687862771875992	CMakeFiles/general_linked_list.dir/struct_a.c.o	52c6a9858e7debfc
+1	21	1709687862775209357	CMakeFiles/general_linked_list.dir/main.c.o	e679673c022eb574
+22	43	1709687862795209554	general_linked_list	be1daf9cf652d851
+0	16	1709687874411990212	CMakeFiles/general_linked_list.dir/struct_a.c.o	52c6a9858e7debfc
+16	29	1709687874425323677	general_linked_list	be1daf9cf652d851
+0	16	1709687960136165162	CMakeFiles/general_linked_list.dir/struct_a.c.o	52c6a9858e7debfc
+16	28	1709687960146165260	general_linked_list	be1daf9cf652d851
+0	16	1709688038576935868	CMakeFiles/general_linked_list.dir/struct_a.c.o	52c6a9858e7debfc
+0	16	1709688038576935868	CMakeFiles/general_linked_list.dir/general_linked_list.c.o	956f6aad24d0c175
+16	29	1709688038590269332	general_linked_list	be1daf9cf652d851
